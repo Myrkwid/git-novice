@@ -353,7 +353,7 @@ moving backward and forward in time becomes much easier.
 > ~ 1hr trying to fix it, with no luck...
 >
 > Luckily, she has been keeping track of her project's versions using Git! Which commands below will
-> let her recover the last committed version of her Python script called
+> let her recover the last committed version of only her Python script called
 > `data_cruncher.py`?
 >
 > 1. `$ git checkout HEAD`
